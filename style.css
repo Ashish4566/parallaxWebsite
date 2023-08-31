@@ -9,7 +9,7 @@
   background-image: url("g1.jpg");
   /* Set a specific height */
   min-height: 500px;
-  height: 1300px;
+  height: 1000px;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
@@ -34,14 +34,14 @@
 }
 
 video {
-  margin-left: 36%;
+  margin-left: 34%;
   margin-top: 30px;
 }
 
 .parallax1 {
   /* The image used */
   background-image: url("g2.jpeg");
-  height: 1300px;
+  height: 1000px;
   /* Set a specific height */
   min-height: 500px;
   /* Create the parallax scrolling effect */
